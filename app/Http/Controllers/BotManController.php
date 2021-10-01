@@ -35,9 +35,9 @@ class BotManController extends Controller
         ];
         $botman = BotManFactory::create($config, new LaravelCache());
  
-        $botman->hears('/start|start|mulai', function (BotMan $bot) {
+        $botman->hears('/islam|islam|hadist|muslim', function (BotMan $bot) {
             $user = $bot->getUser();
-            $bot->reply('Assalamualaikum '.$user->getFirstName().', Selamat datang di Hadits Telegram Bot!. ');
+            $bot->reply('Assalamualaikum '.$user->getFirstName().', Selamat Datang di Kierbie Chatbot!. ');
             $bot->startConversation(new ExampleConversation());
         })->stopsConversation();
 
@@ -60,7 +60,7 @@ class BotManController extends Controller
         })->stopsConversation();
  
         $botman->hears('/tentang|about|tentang', function (BotMan $bot) {
-            $bot->reply('ChatbotSyariah Telegram Bot By Halodog. Mohon maaf jika server terasa lamban, dikarenakan menggunakan free hosting dari Heroku(.)com. Data didapatkan dari https://s.id/zXj6S .');
+            $bot->reply('Kierbie Chatbot produk buatan Indonesia. Mohon maaf jika server terasa lamban, dikarenakan menggunakan free hosting dari Ngrok. Data didapatkan dari https://s.id/zXj6S .');
         })->stopsConversation();
  
         $botman->listen();
