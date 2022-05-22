@@ -136,20 +136,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              We help companies to increase customer relationship, customer satisfaction, and engagement. We optimize your business processes through multiple conversation channels.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> We serve millions of conversations across industries, use cases and channels</li>
+              <li><i class="ri-check-double-line"></i> Our experience include building chatbot in multiple use cases and system integration</li>
+              <li><i class="ri-check-double-line"></i> We’re Excited To Help your Company accomplished mission to build better customer engagement ahead.</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+            With our multi years experience in Customer Support Platform, we believe our products and services able to highly contribute success to your Company. Let’s create something together.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
